@@ -1,0 +1,111 @@
+[
+    {
+        "categoria": "Pokemon",
+        "pregunta": "¿Quien es este Pokemon?",
+        "respuesta": "Onix",
+        "incorrecta1": "Charmander",
+        "incorrecta2": "Arbok",
+        "incorrecta3": "Snorlax",
+        "imagen" : "https://images.hive.blog/p/4bEjbgCbFMvAGbwxD9CJfJUznpDy21P1gb5kciUwoKrnYbGbNVgJCYqgu9vud9CAYTcEXAv9oRev3rHCV15ffkUcNMoBQ3YzTCbiUJ3SnRmcdGwSmykAaeXJVcC5x5eYN7zVg1udtgg56HNvgcJwKQD1EPZJvdqEvvnsekkq2ogb5UgVd7?format=match&mode=fit",
+        "object_fit": "cover"
+    },
+
+    {
+        "categoria": "Pokemon",
+        "pregunta": "¿Quien es este Pokemon?",
+        "respuesta": "Gengar",
+        "incorrecta1": "Pikachu",
+        "incorrecta2": "Ekans",
+        "incorrecta3": "Charizard",
+        "imagen" : "https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/gengar.gif",
+        "object_fit": "cover"
+    },
+    
+    {
+        "categoria": "Pokemon",
+        "pregunta": "¿Quien es este Pokemon?",
+        "respuesta": "Snorlax",
+        "incorrecta1": "Lucario",
+        "incorrecta2": "Ekans",
+        "incorrecta3": "Blastoise",
+        "imagen" : "https://cdn.shopify.com/s/files/1/1793/0115/files/Snorlax_ea4938d4-ddff-47c9-9c25-c85e86937b03_160x160.gif?v=1584800959",
+        "object_fit": "cover"
+    },
+
+    {
+        "categoria": "Pokemon",
+        "pregunta": "¿Quien es este Pokemon?",
+        "respuesta": "Meawth Galar",
+        "incorrecta1": "Meawth",
+        "incorrecta2": "Meawth Alola",
+        "incorrecta3": "Meawth Gigamax",
+        "imagen" : "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/1/19/latest/20191201112821/Meowth_de_Galar_EpEc.gif/180px-Meowth_de_Galar_EpEc.gif",
+        "object_fit": "cover"
+    },
+
+    {
+        "categoria": "Pokemon",
+        "pregunta": "¿Quien es este Pokemon?",
+        "respuesta": "Deoxis Velocidad",
+        "incorrecta1": "Deoxis Defensa",
+        "incorrecta2": "Deoxis Atque",
+        "incorrecta3": "Deoxis Normal",
+        "imagen" : "https://thumbs.gfycat.com/ForthrightDeliciousImpala-max-1mb.gif",
+        "object_fit": "cover"
+    },
+
+    {
+        "categoria": "Pokemon",
+        "pregunta": "¿Quien es este Pokemon?",
+        "respuesta": "Mega Charizard Y",
+        "incorrecta1": "Mega Charizard X",
+        "incorrecta2": "Charizard",
+        "incorrecta3": "Charizard Gigammax",
+        "imagen" : "https://i.pinimg.com/originals/79/b9/af/79b9afe293ab40214ea621f4977a1546.gif",
+        "object_fit": "cover"
+    },
+
+    {
+        "categoria": "Pokemon",
+        "pregunta": "¿Quien es este Pokemon?",
+        "respuesta": "Mega Mewtwo Y",
+        "incorrecta1": "Mega Mewtwo X",
+        "incorrecta2": "Mewtwo",
+        "incorrecta3": "Mew",
+        "imagen" : "http://pa1.narvii.com/6236/251cb91ec26b403e66fad483ab0690f92fc9fb97_00.gif",
+        "object_fit": "cover"
+    },
+
+    {
+        "categoria": "Pokemon",
+        "pregunta": "¿Quien es este Pokemon?",
+        "respuesta": "Dragonite",
+        "incorrecta1": "Dragonair",
+        "incorrecta2": "Charizard",
+        "incorrecta3": "Dratini",
+        "imagen" : "https://www.pkparaiso.com/imagenes/xy/sprites/animados/dragonite-4.gif",
+        "object_fit": "cover"
+    },
+
+    {
+        "categoria": "Pokemon",
+        "pregunta": "¿Quien es este Pokemon?",
+        "respuesta": "Sevaiper",
+        "incorrecta1": "Ditto",
+        "incorrecta2": "Ekans",
+        "incorrecta3": "Arbok",
+        "imagen" : "https://c.tenor.com/1EAiPM8qob8AAAAC/seviper.gif",
+        "object_fit": "cover"
+    },
+
+    {
+        "categoria": "Pokemon",
+        "pregunta": "¿Quien es este Pokemon?",
+        "respuesta": "Hirachi",
+        "incorrecta1": "Celeby",
+        "incorrecta2": "Victini",
+        "incorrecta3": "Meloeta",
+        "imagen" : "https://www.pkparaiso.com/imagenes/espada_escudo/sprites/animados-gigante/jirachi.gif",
+        "object_fit": "cover"
+    }
+]
